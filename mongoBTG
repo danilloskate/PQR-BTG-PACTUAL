@@ -1,0 +1,13 @@
+{
+  "PQR": [
+    {
+      "Peticion" : "string",
+      "Queja": "string",
+      "Reclamo": "string"
+    }
+  ],
+    "id":"string",
+    "fechaCreaacion": "Date",
+    "SerialNumber":"String",
+    "Acrtive":"true"
+}
