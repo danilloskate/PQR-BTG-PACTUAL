@@ -1,4 +1,6 @@
-{
+#> show dbs
+#use myshinynewdb
+# > db.pqr.insert({
   "PQR": [
     {
       "Peticion" : "string",
@@ -10,4 +12,5 @@
     "fechaCreaacion": "Date",
     "SerialNumber":"String",
     "Acrtive":"true"
-}
+})
+#> show dbs
